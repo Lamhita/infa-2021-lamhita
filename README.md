@@ -1,2 +1,2 @@
 # infa-2021-lamhita
-Educational project for mipt python coding practice
+Educational project for MIPT python coding practice
